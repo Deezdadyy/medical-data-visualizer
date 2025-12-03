@@ -1,0 +1,13 @@
+﻿Feature,Variable Type,Variable,Value Type
+Age,Objective Feature,age,int (days)
+Height,Objective Feature,heigh t,int (cm)
+Weight,Objective Feature,weigh t,float (kg)
+Gender,Objective Feature,gende r,categorical code
+Systolic blood pressure,Examination Feature,ap_hi,int
+Diastolic blood pressure,Examination Feature,ap_lo,int
+Cholesterol,Examination Feature,choles terol,"1: normal, 2: above normal, 3: well above normal"
+Glucose,Examination Feature,gluc,"1: normal, 2: above normal, 3: well above normal"
+Smoking,Subjective Feature,smoke,binary
+Alcohol intake,Subjective Feature,alco,binary
+Physical activity,Subjective Feature,activ e,binary
+Presence or absence of cardiovascular disease,Target Variable,cardi 0,binary
